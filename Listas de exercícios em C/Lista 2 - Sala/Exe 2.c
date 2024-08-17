@@ -17,4 +17,6 @@ int main()
     printf("Você foi aprovado com média: %2f", NV);
     else
     printf("Você não foi aprovado");
+
+    return 0;
 }
